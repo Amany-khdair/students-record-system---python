@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\html code"
+		},
+		{
+			"path": "..\\..\\..\\css tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "css tutorial"
+	}
+}
